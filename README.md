@@ -1,5 +1,5 @@
 # Daily-Vocab-Bot
-A python script that reads and answers medical terminology definition questions 
+A python & selenium script that reads and answers medical terminology definition questions from Daily Vocab
 
 ## Requirements
 - Python 2.7
