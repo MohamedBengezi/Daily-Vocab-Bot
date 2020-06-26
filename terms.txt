@@ -38,6 +38,7 @@ x-atrophy	the lack of growth of x
 x-asthenia	the lack of strength of x
 x-otherapy	treatment by means of x
 x-iatry	healing of x
+x-ismus	a spasm of x
 x-stasis	the stopping of x
 x-oplasty	the surgical repairing of x
 x-ocentesis	the surgical puncturing of x
@@ -53,12 +54,13 @@ x-ometry	the measurement of x
 x-ography	the recording of x
 x-opexy	the adhesion of x 
 x-olysis	the disintegration of x 
+x-oschistic	pertaining to the splitting of x
 x-otropism	tendency to preferentially affect x
 x-ophage	something that ingests x
 x-otome	an instrument for cutting x
 x-ectome	an instrument for cutting out x
 x-oscope	an instrument for examining x
-x-oclast	an instrument which breaks x
+x-oclast	something that breaks x
 x-ostat	something which stops x
 x-ogen	a substance which produces x
 x-opath	one with a disease of x
