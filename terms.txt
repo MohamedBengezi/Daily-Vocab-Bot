@@ -1,0 +1,503 @@
+x-ia	an abnormal condition involving x
+x-ist	one who does the action of x
+x-in	a substance that does the action of x
+x-itis	the inflammation of x
+x-orrhexis	the rupturing of x
+x-oschisis	the splitting of x
+x-iasis	the abnormal presence of x
+x-oclasis	the breaking of x
+x-osis	the abnormal condition involving x
+x-opathy	the disease involving x
+x-omegaly	the enlargement of x
+x-ophagy	the ingestion/eating of x
+x-ogenesis	the production of x
+x-opoiesis	the formation of x
+x-okinesis	the movement of x
+x-algia	the pain in(volving) x
+x-odynia	the pain in(volving) x
+x-oplegia	the paralysis of x
+x-orrhagia	the rapid flowing of (something from) x
+x-omalacia	the softening of x
+x-onecrosis	the death of x
+x-ostenosis	the narrowing of x
+x-osclerosis	the hardening of x
+x-optosis	the downward displacement of x
+x-agra	the gouty pain in x
+x-orrhea	the flowing of (something from) x
+x-edema	the swelling of x
+x-ocele	the protrusion of (something through) x
+x-olith	a calculus involving x
+x-ospasm, x-ism	spasm of x
+x-ectopia	the displacement of x
+x-ectasia	the distention of x
+x-oplasia	the formation of x
+x-odysplasia	the defective formation of x
+x-odystrophy	the defective growth of x
+x-otrophy	the growth of x
+x-atrophy	the lack of growth of x
+x-asthenia	the lack of strength of x
+x-otherapy	treatment by means of x
+x-iatry	healing of x
+x-stasis	the stopping of x
+x-oplasty	the surgical repairing of x
+x-ocentesis	the surgical puncturing of x
+x-orrhaphy	the suturing of x
+x-otomy	the cutting of x
+x-ectomy	the cutting out of x
+x-ostomy	the making of an opening in x
+x-ostasis	the stopping of x
+x-ics	the science of x
+x-ology	the study of x
+x-oscopy	the examination of x
+x-ometry	the measurement of x
+x-ography	the recording of x
+x-opexy	the adhesion of x 
+x-olysis	the disintegration of x 
+x-otropism	tendency to preferentially affect x
+x-ophage	something that ingests x
+x-otome	an instrument for cutting x
+x-ectome	an instrument for cutting out x
+x-oscope	an instrument for examining x
+x-oclast	an instrument which breaks x
+x-ostat	something which stops x
+x-ogen	a substance which produces x
+x-opath	one with a disease of x
+x-ograph	an instrument for recording x
+x-ogram	a record of x
+x-ometer	an instrument for measuring x
+x-ogenic	producing x
+x-ogenous	produced by x
+x-otropic	preferentially affecting x
+x-us	masculine latin
+x-a	feminine latin
+x-um, x-on	neuter latin
+anthropo	man
+somato	body
+dermato	skin
+epidermato	epidermis
+cyto	cell
+x-ocyte	a cell of x
+arthro	joint
+acro	extremities
+melo	limb
+cephalo	head
+tricho	hair
+blepharo	eyelid
+opthalmo	eye
+oto	ear
+rhino	nose
+prosopo, faci/o	face
+cervico, trachelo	neck
+omo	shoulder
+brachio	arm
+ancono	elbow
+cheiro, chiro	hand
+dactylo	digit
+onycho	nail
+thoraco, stetho	chest
+masto, mammo	breast
+thele	nipple
+omphalo, umbilico	navel
+gluteo, gluto	buttock
+podo, pedo	foot
+osteo	bone
+x-ostosis	the ossification of x
+oss(e)/o	bone
+skeleto	skeleton
+cranio	skull
+cleid, claviculo, clavici	collar bone
+acromio	acromion
+coraco, coracoido	coracoid process
+humero	humerus
+cubito	elbow
+ulno	ulna
+radio	radius
+carpo	wrist
+phalango	phalanges
+scapulo	scapula
+rachio, rhachio, spino	spine
+myelo	spinal cord; bone marrow
+spondylo, vertebro	vertebra
+costo, costi	rib
+sterno	sternum
+xipho, xiphoido	xiphoid process
+coxo	hip
+pelvi, pelvio	pelvis
+ilio	ilium
+pubo, pubi	pubis
+sacro	sacrum
+coccygo	coccyx
+acetabulo	acetabulum
+femoro	femur
+patella	knee cap
+tibio	tibia
+fibulo	fibula
+tarso	tarsus
+calcaneo	calcaneus
+talo, astragalo	talus
+chondro, cartilagino	cartilage
+myo, myoso, musculo	muscle
+teno, tenoto, tendo, tendino	tendon
+desmo, syndesmo, syndesmoso, ligamento	ligament
+aponeuro, aponeuroso	aponeurosis
+achillo	achilles tendon
+encephalo, cerebro	brain
+cerebello	cerebellum
+membrano	membrane
+meningo	meninges
+neuro, nervi	nerve
+gangliono	ganglion
+neurono	nerve cell
+opthalmo, optico,oculo	eye
+core, coreo, pupillo	pupil
+kerato, coreno	cornea
+sclero	sclera
+retino	retina
+uveo	uvea
+dacryo, lacrimo	tear
+dacryocysto	tear sac
+hemato	blood
+x-hemia	the abn pres of blood in x
+sanguino, sangui	blood
+hemoglobino	hemoglobin
+plasmato, plasma	plasma
+thrombo	clot
+thrombocyte	blood clot
+sphygmo	pulse
+cardio	heart
+angio, angei, vasculo, vaso	vessel
+arterio	artery
+phlebo, veno	vein
+endocrino	secretion
+hormono	hormones
+adeno, glandulo	gland
+pinealo	pineal gland
+hypophyseo	pituitary gland
+parotido	parotid gland
+thyroido	thyroid gland
+parathyro, parathyroido	parathyroid gland
+adreno, adrenalo	adrenal gland
+suprareno, suprarenalo	adrenal gland
+insulo	islets of langerhans
+naso, gonado	nose
+sinuso	sinus
+septo	septum
+antro	antrum
+tracheo	trachea
+broncho	bronchi
+pneumono	lung; air
+pulmono	lung
+pleuro	pleura
+phreno	diaphragm; midriff
+spiro, pneo	breathing
+pneumato	air; lung
+x-i	pl of x-us (M)
+x-ae	pl of x-a (f)
+x-a (pl)	pl of x-um, x-on (n)
+x-es	pl of x-is, x-s (M+f)
+x-ia (pl)	pl of x-e (n)
+gnatho	jaw
+maxilla	upper jaw
+mandibulo	lower jaw
+genio, mento	chin
+stomato, oro,	mouth
+cheilo, labio	lip
+bucco	cheek
+glosso, linguo	tongue
+palat,uranisco	palate
+odonto, dento, denti	tooth
+periodonto	part surrounding teeth, periodontum
+gingivo, ulo	gums
+fronto	frontal bone
+parieto	parietal bone
+occipito	occipital bone
+atlanto	the atleas bone
+x-auxis	the enlargement of x
+x-cirrhosis	the hardening of x
+x-ocleisis	the closure of x
+x-helicosis	the ulceration of x
+x-i-ferous	bearing x
+x-otoxicosis	the poisoning of x
+x-otoxic	poisonous to x
+x-otoxin	a substance poisonous to x
+x-otoxicity	the ability to poison x
+x-apheresis	the removal of x
+x-enchysis	the injection of fluid into x
+x-ocampsia	curvature of x 
+x-ocamp	instrument for bending x
+x-otripsy	crushing/rubbing x
+x-otribe	an inst for crushing/rubbing x
+celio,	abdomen; abdominal wall
+abronimo, ventro	abdomen
+laparo	abdomen wall
+splanchno, viscero	viscera
+esophago	esphagus
+gastro, stomacho	stomach
+cardio (stomach)	cardiac part of the stomach
+pyloro	pylorus
+duodeno	duodenum
+cholecysto	gall bladder
+choledocho	commob bile duct
+cholangio	bile duct
+hepato	liver
+pancreato	pancreas
+entero	SI
+jejuno	jejunum
+chole, bili	bile
+copro, fec, stercoro	feces
+scato	excrement
+lumbo	loin
+inguino	groin
+perineo	perineum
+genito	genitals
+uro, urono, urino	urine; urinary tract
+x-uria	the abn pres of x in the urine
+x-uresis	the passage of x in the urine
+psycho, phreno	mind
+ideo	idea
+neuro	emotions
+eroto	sexual love; deisre
+nycto	night
+hypno	sleep
+oneiro	dream
+narco	stupor
+pharmaco	drug, medicine
+esthesio	perception
+anesthesio	lack/loss of perception
+hallucino	hallicunation
+noso	disease
+hystero	hysteria
+epilepto	eplipesy
+pseudo	false
+x-ophobia	excessive/morbid dread of x
+x-ophobe	one with a morbid dread of x
+x-ophilia	morbid fondness of x
+x-ophilic	pt a morbid fondness of x
+x-ophile	one with a morbid fondness of x (psych)
+x-ophil	something w/affinity for x
+x-ophiliac	one w/propensity for x
+x-omania	a morbid fondness for x
+x-omanic	pt a morbid fondness for x
+x-esthesia	the perception of x
+x-anesthesia	the loss of perception of x
+x-olepsy	a seizure of/involving x
+x-olagnia	sexual gratification inv x
+hydro	water; fluid
+hygro	moisture
+aero	air; gas
+physo	gas
+sarco	flesh
+histo, histi	tissue
+synov(i) o	synovial
+epithelio	epithelium
+karyo	nucleus
+nucleo	nucleus
+fibro	fiber
+ino, inoso	fiber
+elasto, elastico	fiber
+muco, muci, mucoso	mucus
+lipo, liparo,	fat; lipids
+adipo, adiposo	fat
+steato	fat
+pimelo	fat
+galacto	milk
+lacto	milk
+x-oma	a tumor involving x
+x-omato	a tumor involving x
+onco	tumor
+x-oncus	a tumor involving x
+hyper	excessive; above
+epi	upon; excessive
+supra	above
+hypo	insufficient; below
+sub	below
+infra	below
+peri	surrounding
+circum	around
+para	beside
+extra	outside
+ex	outside
+exo	outside
+ecto	outside
+endo	inside
+en	inside
+intra	inside
+ento	inside
+pre	before
+pro	before
+retro	behind
+post	behind; after
+trans	through
+inter	between; among
+syn	together; with
+anti	against
+x-ize	to (do the action) of x OR to make (something) x
+x-al	pertaining to x
+x-ous	pertaining to x
+x-osum	pertaining to x
+x-aris	pertaining to x
+x-ina	pertaining to x
+x-aca	pertaining to x
+x-oideum	resembling x
+x-oidea	resembling x
+x-ia	an abnormal condition involving x
+x-ist	one who does (the action of x)
+x-in	a substance (which does the action) of x
+x-itis	the inflammation of x
+x-itogen	a substance which produces the inflammation of x
+x-itic	p.t the inflammation of x
+x-orrhexis	the rupturing of x
+x-orrhectic	p.t the rupturing of x
+x-oschisis	the splitting of x
+x-iasis	the abnormal presence of x
+x-iastic	p.t the abnormal presence of x
+x-oclasis	the breaking of x
+x-oclastic	p.t the breaking of x
+x-osis	an abnormal condition involving x
+x-otic	p.t an abnormal condition involving x
+x-opathia	a disease of x
+x-opathy	a disease of x
+x-opathic	p.t a disease of x
+x-opathology	the study of diseases of x
+x-opathologic	p.t the study of the diseases of x
+x-opathologist	one who studies the diseases of x
+x-omegaly	the enlargement of x
+x-omegalic	p.t the enlargement of x
+x-ophagous	p.t the ingestion of x
+x-ophagist	one who ingests x
+x-ophagia	the ingestion of x
+x-ophagy	the ingestion of x
+x-ogeny	the production of x
+x-ogenesis	the production of x
+x-ogenetics	the science of the production of x
+x-ogenetic	p.t. the production of x
+x-ogeneticist	one who specializes in the production of x
+x-ica	pertaining to x
+x-osus	pertaining to x
+x-ary	pertaining to x
+x-are	pertaining to x
+x-anum	pertaining to x
+x-acum	pertaining to x
+x-acus	pertaining to x
+x-oid	resembling x
+x-opoiesia	the formation of x
+x-opoietic	p.t the formation of x
+x-opoietin	a substance which forms x
+x-okinesia	the movement of x
+x-okinesis	the movement of x
+x-okinetic	p.t the movement of x
+x-okinin	a substance which moves x
+x-okinetics	the science of the movement of x
+x-okinetometry	the measurement of the movement of x
+x-algic	p.t pain in or involving x
+x-algia	pain in or involving x
+x-odynia	pain in or involving x
+x-odynogenesis	the production of pain in x
+x-oplegia	the paralysis of
+x-oplegic	p.t the paralysis of
+x-openia	a deficiency of
+x-openic	p.t a deficiency of
+x-orrhagy	the rapid flowing of (something from) x
+x-orrhagia	the rapid flowing of (something from) x
+x-orrhagic	p.t the rapid flowing of something from
+x-omalacia	the softening of x
+x-omalacic	p.t the softening of x
+x-onecrosis	the death of x
+x-onecrotic	p.t the death of x
+x-ostenosis	the narrowing of x
+x-ostenotic	p.t the narrowing of x
+x-osclerosis	the hardening of x
+x-osclerotic	p.t the hardening of x
+x-optosis	the downward displacement of x
+x-optotic	p.t the downward displacement of x
+x-agra	gouty pain in x
+x-agral	p.t gouty pain in x
+x-orrhea	the flowing of (something from) x
+x-orrheic	p.t the flowing of (something from) x
+x-edema	the swelling of
+x-edematous	p.t the swelling of
+x-ocele	the protrusion of (something through) x
+x-ocelalgia	pain involving the protrusion of (something through) x
+x-olith	a calculus in or involving x
+x-olithectomy	the cutting out of a calculus in or involving x
+x-olithiasis	an anormal presence of a calculus in or involving x
+x-ospasmic	p.t a spasm of x
+x-ospasmia	an abnormal condition involving spasms of x
+x-ismus	a spasm of x
+x-ismic	p.t a spasm of x
+x-ectopy	the displacement of x
+x-ectopia	the displacement of x
+x-ectopic	p.t the displacement of x
+x-ectasis	the distention of x
+x-ectasia	the distention of x
+x-oplasia	the formation of x
+x-oplastic	p.t the formation of x
+x-odysplasia	the defective formation of x
+x-odysplastic	p.t the defective formation of x
+x-otrophy	the growth/nourishment of x
+x-otrophic	p.t the growth/nourishment of x
+x-odystrophy	the defective growth of x
+x-odystrophic	p.t the defective growth of x
+x-atrophia/ x-atrophy	the lack of growth of x
+x-atrophic	p.t the lack of growth of x
+x-asthenia	the lack of strength of x
+x-asthenic	p.t the lack of strength of x
+x-otherapy	treatment by means of x
+x-otherapist	one who specializes in treatment by means of x
+x-iatric	p.t the healing of x
+x-iatrics	the science of the healing of x
+x-iatrist	one who heals x
+x-ostasis	the stopping of x
+x-ostatic	p.t the stopping of x
+x-oplasty	the surgical repairing of x
+x-oplastic	p.t the surgical repairing of x
+x-ocentesis	the surgical puncturing of x
+x-orrhaphy	the suturing of x
+x-orrhaphic	p.t the suturing of x
+x-otomic	p.t the cutting of x
+x-otomist	one who cuts x
+x-ectomy	the cutting out of x
+x-ectomize	to cut out x
+x-ectomist	one who cuts out
+x-ostomy	the making of an opening in x
+x-ostomize	to make an opening in x
+x-ics	the science of x
+x-ology	the study of x
+x-ologic	p.t the study of x
+x-ologist	one who studies x
+x-oscopy	the examination of x
+x-oscopic	p.t the examination of x
+x-ometry	the measurement of x
+x-ometric	p.t the measurement of x OR p.t an instrument for measuring x
+x-ometrics	the science of the measurement of x
+x-ography	the recording of x
+x-ographic	p.t the recording of OR p.t an instrument for recording x OR p.t a record of x
+x-opexis	the adhesion of x (diagnostic)
+x-opexis	the fixation of x (therapeutic)
+x-opectin	a substance which fixes x
+x-olytic	p.t the separation of the adhesions of x
+x-olysin	a substance which disintegrates x
+x-otropism	the tendency to preferentially affect x
+x-otropin	a substance which preferentially affects x
+x-otropismic	p.t the tendency to preferentially affect x
+x-ophage	something which ingests x
+x-ophagic	p.t the ingestion of x OR p.t something which ingests x
+x-otome	an instrument for cutting x
+x-otomic	p.t an instrument for cutting x
+x-ectome	an instrument for cutting out x
+x-ectomic	p.t the cutting out of x OR p.t an instrument for cutting out x
+x-oscope	an instrument for examining x
+x-oscopic	p.t an instrument for examining x
+x-oclast	something which breaks x
+x-oclastic	p.t something which breaks x
+x-ostat	something which stops
+x-ogen	a substance which produces x
+x-opath	one with a disease of x
+x-ograph	an instrument for recording x
+x-ogram	a record of x
+x-ometer	an instrument for measuring x
+x-ogenic	producing x
+x-ogenous	produced by x
+x-otropic	preferentially affecting x
+x-optosis	the downward displacement of x
+x-iastic	p.t the abnormal presence of x
