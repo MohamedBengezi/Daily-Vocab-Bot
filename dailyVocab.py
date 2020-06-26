@@ -9,20 +9,15 @@ URL = 'https://dailyvocab.ca/vocab/838/quiz'
 def setup_dict():
     global terms
     terms = {}
-    cnt = 0
     try:
         with open("terms.txt") as f:
 
             for line in f:
-                cnt += 1
-                print cnt
                 (key, val) = line.split("\t")
                 if key not in terms:
                     terms[key] = val
     except:
         print('Reached end of terms file')
-    for i in terms:
-        cnt += 1
 
 
 def login():
@@ -48,13 +43,16 @@ def getQuestion():
     if question[-1] == '-':
         question = question.replace('-', '')
     if question == prevQ:
-        raise Exception("Wrong Answer")
+        setAnswer("idk")
+        continue
+        
 
 
-def setAnswer():
+def setAnswer(ans):
     answer = driver.find_element_by_id("question_answer")
-    ans = [value for key, value in terms.items() if question.lower()
-           in key.lower()]
+    if ans is None:
+        ans = [value for key, value in terms.items() if question.lower()
+            in key.lower()]
     answer.send_keys(ans)
     answer.send_keys(webdriver.common.keys.Keys.RETURN)
 
@@ -68,7 +66,7 @@ if __name__ == '__main__':
     login()
     sleep(1)
     count = 0
-    while count < 25:
+    while count < 50:
         getQuestion()
         setAnswer()
         sleep(2)
