@@ -4,11 +4,12 @@ from time import sleep
 from selenium import webdriver
 
 URL = 'https://dailyvocab.ca/vocab/838/quiz'
+terms = {}
+question = None
 
 
 def setup_dict():
     global terms
-    terms = {}
     try:
         with open("terms.txt") as f:
 
@@ -44,15 +45,16 @@ def getQuestion():
         question = question.replace('-', '')
     if question == prevQ:
         setAnswer("idk")
-        continue
-        
 
 
 def setAnswer(ans):
     answer = driver.find_element_by_id("question_answer")
-    if ans is None:
+    # check for exact match, and if not get closest
+    if terms.has_key(question):
+        ans = terms[question]
+    else:
         ans = [value for key, value in terms.items() if question.lower()
-            in key.lower()]
+               in key.lower()]
     answer.send_keys(ans)
     answer.send_keys(webdriver.common.keys.Keys.RETURN)
 
@@ -68,6 +70,6 @@ if __name__ == '__main__':
     count = 0
     while count < 50:
         getQuestion()
-        setAnswer()
+        setAnswer(None)
         sleep(2)
         count += 1
